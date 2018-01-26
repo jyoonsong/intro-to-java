@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DMV
+comment1.params=
+comment1.target=DMV()
+comment2.params=
+comment2.target=void\ runSimulation()
+comment3.params=
+comment3.target=License\ inputDriverInformation()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\ Main\ is\ here\ for\ running\ the\ program\ one\ time,\ like\ book\ does.\ This\ example\ has\ code\n\ \ \ \ \ we\ haven't\ seen\ yet\ in\ order\ to\ loop\ the\ program.\ In\ BlueJ,\ you\ can\ call\ the\ runSimulation\n\ \ \ \ \ method\ as\ many\ times\ as\ you\ want,\ but\ from\ main,\ it\ will\ only\ happen\ once.\n
+numComments=5

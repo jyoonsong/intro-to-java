@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PremiumUser
+comment0.text=\n\ Write\ a\ description\ of\ class\ PremiumUser\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=userName\ password\ age
+comment1.target=PremiumUser(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PremiumUser\n
+comment2.params=
+comment2.target=void\ initializePlaylists()
+comment2.text=\n\ sets\ up\ the\ playlist\ array\n
+comment3.params=p
+comment3.target=boolean\ addNewPlaylist(Playlist)
+comment3.text=\n\ Adds\ the\ given\ playlist\ to\ the\ array\n
+comment4.params=
+comment4.target=int\ getNumberOfPlaylists()
+comment4.text=\ \n\ get\ Number\ of\ Playlists\ in\ arraylist\ Playlists\n
+comment5.params=song
+comment5.target=java.lang.String\ listenToSong(Song)
+comment5.text=\n\ calls\ the\ song's\ play\ method\n
+numComments=6

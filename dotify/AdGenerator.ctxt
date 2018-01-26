@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AdGenerator
+comment1.params=
+comment1.target=AdGenerator()
+comment2.params=
+comment2.target=java.lang.String\ go()
+comment3.params=
+comment3.target=java.lang.String[]\ getHardCodedAdFiles()
+comment4.params=
+comment4.target=java.lang.String[]\ getHardCodedTexts()
+comment5.params=
+comment5.target=void\ playRandomAd()
+comment6.params=
+comment6.target=java.lang.String\ getRandomAd()
+comment7.params=num
+comment7.target=java.lang.String\ toStarString(int)
+numComments=8

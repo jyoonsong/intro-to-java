@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AudioHelper
+comment0.text=\n\n
+comment1.params=fileName
+comment1.target=void\ playFile(java.lang.String)
+comment1.text=\n\ Play\ an\ audio\ file\ (certain\ WAV\ files)\ given\ the\ fileName\n\ @param\ fileName\n
+comment2.params=fileName\ continuous
+comment2.target=void\ playFile(java.lang.String,\ boolean)
+comment2.text=\n\ Play\ an\ audio\ file\ (certain\ WAV\ files)\ given\ the\ fileName\ and\ boolean\ (indicating\ play\ once\ or\ play\ multiple)\n\ @param\ fileName\n\ @param\ continuous\ boolean\ to\ indicate\ whether\ the\ audio\ file\ shall\ play\ once\ or\ \n\ play\ continuously.\n
+comment3.params=urlString
+comment3.target=void\ playAd(java.lang.String)
+comment3.text=\n\ Play\ an\ ad\ (wav\ file)\ based\ on\ a\ URL\n\ @param\ urlString\n
+comment4.params=urlString
+comment4.target=void\ playURL(java.lang.String)
+comment4.text=\n\ Play\ a\ song/sound\ \ (wav\ file)\ based\ on\ a\ URL\n\ @param\ urlString\n
+comment5.params=urlString\ continuous\ message
+comment5.target=void\ playURL(java.lang.String,\ boolean,\ java.lang.String)
+comment5.text=\n\ Play\ a\ song/sound\ (wav\ file)\ based\ on\ a\ URL,\ with\ a\ message\ about\ what\ is\ playing\ that\ gets\ printed\ to\ console\ window\n\ @param\ urlString\n\ @param\ continuous\n\ @param\ message\n
+comment6.params=stream\ continuous
+comment6.target=void\ playStream(javax.sound.sampled.AudioInputStream,\ boolean)
+comment6.text=\n\ Method\ that\ gets\ the\ audio\ clip\ based\ on\ the\ stream\ and\ plays\ it\n\ @param\ stream\n\ @param\ continuous\n
+numComments=7

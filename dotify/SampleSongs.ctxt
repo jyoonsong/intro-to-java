@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SampleSongs
+comment1.params=
+comment1.target=java.util.ArrayList\ getAllSongs()
+comment2.params=
+comment2.target=Playlist\ getSampleSongsFromFiles()
+comment3.params=
+comment3.target=Playlist\ getSampleSimpsonsSongsFromURL()
+comment4.params=
+comment4.target=Playlist\ getSampleStarWarsSongsFromURL()
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=
+comment1.target=Calculator()
+comment2.params=
+comment2.target=void\ printDirections()
+comment2.text=\n\ Method\ printDirections\n\n
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\n\ Method\ run\n\n
+comment4.params=
+comment4.target=char\ askForOperation()
+comment4.text=\n\ Method\ askForOperation\n\n\ @return\ The\ return\ value\n
+comment5.params=operator
+comment5.target=void\ executeOperation(char)
+comment5.text=\n\ Method\ executeOperation\n\n\ @param\ operator\ A\ parameter\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
